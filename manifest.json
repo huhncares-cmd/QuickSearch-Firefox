@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "QuickSearch",
-    "version": "1.5.0",
+    "version": "1.5.1",
     "description": "QuickSearch™ including Context-Menu-Search by the HuhnCompany.",
     "options_page": "html/options.html",
     "icons": {
@@ -21,8 +21,7 @@
     },
     "permissions":[
         "contextMenus",
-        "storage",
-        "notifications"
+        "storage"
     ]
 
 }
